@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|c:\\users\\lenovo\\downloads\\pg_management_platform-main\\pg_management_platform-main\\pg_management_platform\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F31B56C-AA09-4804-AFE2-CDD71FF55312}|PG_Management_Platform\\PG_Management_Platform.csproj|solutionrelative:pg_management_platform\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:42:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:40:18.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:43:46.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:43:15.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PG_Management_Platform\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:42:19.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:43:17.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Program.cs",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Program.cs",
+              "RelativeToolTip": "PG_Management_Platform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:40:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:49:56.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:49:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PG_Management_Platform\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\PG_Management_Platform-main\\PG_Management_Platform-main\\PG_Management_Platform\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PG_Management_Platform\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T05:49:50.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
